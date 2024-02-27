@@ -1,0 +1,15 @@
+C:\Users\Aldrin Mark Diaz\Documents\GitHub\Crypto Profit Calculator\bin\Debug\net8.0\Crypto Profit Calculator.exe
+C:\Users\Aldrin Mark Diaz\Documents\GitHub\Crypto Profit Calculator\bin\Debug\net8.0\Crypto Profit Calculator.deps.json
+C:\Users\Aldrin Mark Diaz\Documents\GitHub\Crypto Profit Calculator\bin\Debug\net8.0\Crypto Profit Calculator.runtimeconfig.json
+C:\Users\Aldrin Mark Diaz\Documents\GitHub\Crypto Profit Calculator\bin\Debug\net8.0\Crypto Profit Calculator.dll
+C:\Users\Aldrin Mark Diaz\Documents\GitHub\Crypto Profit Calculator\bin\Debug\net8.0\Crypto Profit Calculator.pdb
+C:\Users\Aldrin Mark Diaz\Documents\GitHub\Crypto Profit Calculator\obj\Debug\net8.0\Crypto Profit Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aldrin Mark Diaz\Documents\GitHub\Crypto Profit Calculator\obj\Debug\net8.0\Crypto Profit Calculator.AssemblyInfoInputs.cache
+C:\Users\Aldrin Mark Diaz\Documents\GitHub\Crypto Profit Calculator\obj\Debug\net8.0\Crypto Profit Calculator.AssemblyInfo.cs
+C:\Users\Aldrin Mark Diaz\Documents\GitHub\Crypto Profit Calculator\obj\Debug\net8.0\Crypto Profit Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Aldrin Mark Diaz\Documents\GitHub\Crypto Profit Calculator\obj\Debug\net8.0\Crypto Profit Calculator.sourcelink.json
+C:\Users\Aldrin Mark Diaz\Documents\GitHub\Crypto Profit Calculator\obj\Debug\net8.0\Crypto Profit Calculator.dll
+C:\Users\Aldrin Mark Diaz\Documents\GitHub\Crypto Profit Calculator\obj\Debug\net8.0\refint\Crypto Profit Calculator.dll
+C:\Users\Aldrin Mark Diaz\Documents\GitHub\Crypto Profit Calculator\obj\Debug\net8.0\Crypto Profit Calculator.pdb
+C:\Users\Aldrin Mark Diaz\Documents\GitHub\Crypto Profit Calculator\obj\Debug\net8.0\Crypto Profit Calculator.genruntimeconfig.cache
+C:\Users\Aldrin Mark Diaz\Documents\GitHub\Crypto Profit Calculator\obj\Debug\net8.0\ref\Crypto Profit Calculator.dll
