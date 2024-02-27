@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Aldrin Mark Diaz\\Documents\\GitHub\\Crypto Profit Calculator\\Crypto Profit Calculator.csproj": {}
+    "C:\\Users\\Aldrin Mark Diaz\\Documents\\GitHub\\Crypto_Calculator\\Crypto Profit Calculator\\Crypto Profit Calculator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Aldrin Mark Diaz\\Documents\\GitHub\\Crypto Profit Calculator\\Crypto Profit Calculator.csproj": {
+    "C:\\Users\\Aldrin Mark Diaz\\Documents\\GitHub\\Crypto_Calculator\\Crypto Profit Calculator\\Crypto Profit Calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aldrin Mark Diaz\\Documents\\GitHub\\Crypto Profit Calculator\\Crypto Profit Calculator.csproj",
+        "projectUniqueName": "C:\\Users\\Aldrin Mark Diaz\\Documents\\GitHub\\Crypto_Calculator\\Crypto Profit Calculator\\Crypto Profit Calculator.csproj",
         "projectName": "Crypto Profit Calculator",
-        "projectPath": "C:\\Users\\Aldrin Mark Diaz\\Documents\\GitHub\\Crypto Profit Calculator\\Crypto Profit Calculator.csproj",
+        "projectPath": "C:\\Users\\Aldrin Mark Diaz\\Documents\\GitHub\\Crypto_Calculator\\Crypto Profit Calculator\\Crypto Profit Calculator.csproj",
         "packagesPath": "C:\\Users\\Aldrin Mark Diaz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aldrin Mark Diaz\\Documents\\GitHub\\Crypto Profit Calculator\\obj\\",
+        "outputPath": "C:\\Users\\Aldrin Mark Diaz\\Documents\\GitHub\\Crypto_Calculator\\Crypto Profit Calculator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

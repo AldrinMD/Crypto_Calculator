@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Crypto Profit Calculator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+622c1d1b3d6199bbba2d06f604522f7b782fa9f1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Crypto Profit Calculator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Crypto Profit Calculator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

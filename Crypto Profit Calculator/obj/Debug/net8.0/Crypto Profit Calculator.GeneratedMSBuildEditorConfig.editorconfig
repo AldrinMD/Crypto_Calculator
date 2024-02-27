@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Crypto_Profit_Calculator
-build_property.ProjectDir = C:\Users\Aldrin Mark Diaz\Documents\GitHub\Crypto Profit Calculator\
+build_property.ProjectDir = C:\Users\Aldrin Mark Diaz\Documents\GitHub\Crypto_Calculator\Crypto Profit Calculator\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
